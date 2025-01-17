@@ -1,0 +1,3 @@
+Jour 1 : Aujourd'hui, j'ai appris à manipuler des fichiers en Python.
+Jour 2 : La programmation est fascinante !
+Jour 3 : Les scripts Python simplifient les tâches complexes.
